@@ -1,9 +1,30 @@
 var actors = [ {
 
-      "name": "Meryl Streep",
-      "short": "",
-      "pic": "img/mamma_mia.jpg",
-      "genre": "Musical"
+		"name": "Meryl Streep",
+		"short": "Mary Louise \"Meryl\" Streep (born June 22, 1949) is an American actress. Often described as the \"best actress of her generation\",Streep is particularly known for her versatility and accents. Nominated for a record 21 Academy Awards, she has won three. Among other accolades, she has received 31 Golden Globe nominations, winning eight.",
+		"pic": "img/streep.jpg",
+		"films": "The Devil Wears Prada, Into the Woods, The Iron Lady, Julie & Julia, ... "
 
-      } 
+	}, {
+
+		"name": "Amanda Seyfried",
+		"short": "Amanda Michelle Seyfried (born December 3, 1985) is an American actress, model, and singer-songwriter. She began her career as a model when she was 11 and her acting career at 15 with recurring parts on the soap operas As the World Turns and All My Children.",
+		"pic": "img/seyfried.jpg",
+		"films": "Les Misérables, Red Riding Hood, 	Letters to Juliet, ..."
+
+	}, {
+
+		"name": "Pierce Brosnan", 
+		"short": "Pierce Brendan Brosnan OBE (/ˈbrɒsnən/; born 16 May 1953) is an Irish-American actor, film producer, activist, and environmentalist. Born in Ireland, Brosnan became a naturalized American citizen.",
+		"pic": "img/brosnan.jpg",
+		"films": "Percy Jackson & the Olympians: The Lightning Thief, The Ghost Writer, ..."
+
+	}, {
+
+		"name": "Colin Firth", 
+		"short": "Colin Andrew Firth CBE (born 10 September 1960) is an English actor who has received an Academy Award, a Golden Globe Award, two BAFTA Awards, and three Screen Actors Guild Awards, as well as the Volpi Cup for Best Actor at the Venice Film Festival. In 2010, Firth's portrayal of King George VI in Tom Hooper's The King's Speech won him the Academy Award for Best Actor.",
+		"pic": "img/firth.jpg",
+		"films": "The King's Speech, Bridget Jones, Dorian Gray, ..."
+
+	}
 ];
