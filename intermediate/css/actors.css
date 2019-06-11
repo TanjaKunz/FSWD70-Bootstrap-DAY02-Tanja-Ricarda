@@ -1,3 +1,6 @@
+.container {
+  height: 100%; }
+
 img {
   max-height: 100%; }
 
@@ -9,17 +12,23 @@ header, footer {
   header li, footer li {
     color: #074E86; }
 
-.sidebar {
-  background-color: #074E86;
-  color: #C9DDF1;
-  height: 100vh; }
-
 a {
   color: white; }
 
 .row {
   margin-left: 1px;
   margin-right: 2px;
-  border-bottom: 5px solid white; }
+  border-bottom: 5px solid white;
+  height: 100%; }
+
+.sidebar {
+  height: 260rem;
+  background-color: #074E86;
+  color: #C9DDF1; }
+
+.affix {
+  top: 60px;
+  width: 23%;
+  z-index: 9999; }
 
 /*# sourceMappingURL=actors.css.map */
