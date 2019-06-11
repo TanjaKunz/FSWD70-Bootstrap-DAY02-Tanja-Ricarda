@@ -1,0 +1,9 @@
+var data = [ {
+
+      "name": "Mamma Mia",
+      "short": "Longing to discover the identity of her true father before she exchanges her wedding vows, the daughter of a once-rebellious single mother secretly invites a trio of paternal candidates to her upcoming wedding in this feature adaptation of the beloved stage musical.",
+      "pic": "img/mamma_mia.jpg",
+      "genre": "Musical"
+
+      } 
+];
