@@ -1,0 +1,9 @@
+var actors = [ {
+
+      "name": "Meryl Streep",
+      "short": "",
+      "pic": "img/mamma_mia.jpg",
+      "genre": "Musical"
+
+      } 
+];

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,GAAG;EACF,UAAU,EAAE,IAAI;;AAEjB,cAAc;EACb,gBAAgB,EAPH,OAAO;EASpB,8BAAO;IACN,MAAM,EAAE,KAAK;IACb,YAAY,EAAE,IAAI;EAEnB,oBAAE;IACD,KAAK,EAbM,OAAO",
+"sources": ["actors.sass"],
+"names": [],
+"file": "actors.css"
+}

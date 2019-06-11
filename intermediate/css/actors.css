@@ -1,0 +1,12 @@
+img {
+  max-height: 100%; }
+
+header, footer {
+  background-color: #C9DDF1; }
+  header #header, footer #header {
+    height: 100px;
+    padding-left: 16px; }
+  header li, footer li {
+    color: #074E86; }
+
+/*# sourceMappingURL=actors.css.map */
